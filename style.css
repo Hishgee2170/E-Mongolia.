@@ -1,0 +1,101 @@
+* {
+  margin: 0px;
+}
+.flex {
+  display: flex;
+}
+#Title {
+  width: 100%;
+  height: 8vh;
+  background-color: #0f52ba;
+  position: unset;
+}
+.e {
+  color: red;
+  font-size: 100px;
+}
+.e-box {
+  width: 80px;
+  height: 50%;
+  background-color: white;
+}
+.items-center {
+  align-items: center;
+}
+.justify-center {
+  justify-content: center;
+}
+.rounded-12px {
+  border-radius: 12px;
+}
+.mongolia {
+  color: white;
+  font-size: 80px;
+  margin-left: 10px;
+}
+#head {
+  width: 100%;
+  height: 200px;
+}
+.zurag {
+  width: 22%;
+  height: 100%;
+}
+.ner {
+  width: 75%;
+  height: 100%;
+}
+.ysloh {
+  font-size: 50px;
+  color: #748b97;
+}
+.owog {
+  font-size: 70px;
+  color: #50626b;
+  font-weight: 550;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.mail {
+  font-size: 50px;
+  color: #5e737e;
+}
+.flex-col {
+  flex-direction: column;
+}
+.bichig {
+  font-size: 70px;
+  color: #50626b;
+  font-weight: 550;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#body {
+  background-color: #f8fafc;
+  padding: 80px 40px;
+}
+.unemleh {
+  padding: 30px 50px;
+  width: 300px;
+}
+.unemlehText {
+  font-size: 50px;
+  color: #748b97;
+  position: relative;
+  left: 55px;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.width-100 {
+  width: 100%;
+}
+.showMenu {
+  display: none;
+  position: absolute;
+  border-radius: 60px;
+  bottom: -5px;
+  height: 60%;
+  width: 100%;
+}
+.borderRadius {
+  border-radius: 50px;
+}
